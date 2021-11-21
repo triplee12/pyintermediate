@@ -1,0 +1,12 @@
+{
+    "age": 28,
+    "city": "Awka",
+    "gender": "male",
+    "hasChildren": false,
+    "name": "John",
+    "title": [
+        "developer",
+        "engineer",
+        "Programmer"
+    ]
+}

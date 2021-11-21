@@ -1,4 +1,4 @@
-# Advanced Python For Intermediate Python Programmers.
+# Advanced Python For Intermediate Python Programmers
 
 ## Who is this course for?
 
